@@ -1,4 +1,4 @@
-# 🔐 hDC Host  
+# 🌐 hDC Host  
 
 Mais um projeto em HTML e CSS puro. Nesse projeto aplico as principais funcionalidades do HTML e CSS (Tags, estilos...). Trata-se de um site de vendas de hospedagens e domínios.
 
